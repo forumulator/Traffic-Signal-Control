@@ -75,5 +75,5 @@ def plot_from_pickle():
 
 
 if __name__ == "__main__":
-    plot_from_pickle()
-    # test_fuzzy_agent()
+    # plot_from_pickle()
+    test_fuzzy_agent()
